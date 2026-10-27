@@ -1,0 +1,4 @@
+# Optional finance-specific transformer backend.
+# Install only if you want local FinBERT inference; it downloads a model on first use.
+torch>=2.2
+transformers>=4.45
